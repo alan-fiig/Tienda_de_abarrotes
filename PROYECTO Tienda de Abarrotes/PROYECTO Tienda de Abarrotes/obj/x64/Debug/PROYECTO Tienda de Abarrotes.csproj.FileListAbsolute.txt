@@ -1,0 +1,15 @@
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\x64\Debug\PROYECTO Tienda de Abarrotes.exe.config
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\x64\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\x64\Debug\PROYECTO Tienda de Abarrotes.pdb
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO Tienda de Abarrotes.csprojAssemblyReference.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO Tienda de Abarrotes.csproj.CoreCompileInputs.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\x64\Debug\PROYECTO Tienda de Abarrotes.pdb

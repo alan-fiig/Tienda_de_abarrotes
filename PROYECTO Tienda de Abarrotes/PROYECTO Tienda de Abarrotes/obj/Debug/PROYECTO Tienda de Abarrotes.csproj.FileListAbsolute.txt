@@ -1,0 +1,90 @@
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojAssemblyReference.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.CoreCompileInputs.cache
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+C:\Users\ALAN PC\Desktop\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojAssemblyReference.cache
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.cache
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+D:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+E:\PROYECTOS\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.Cache
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojResolveAssemblyReference.cache
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+D:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.Cache
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojResolveAssemblyReference.cache
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.Cache
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+G:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+E:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+E:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+E:\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe.config
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\bin\Debug\PROYECTO Tienda de Abarrotes.pdb
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csprojAssemblyReference.cache
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Busqueda.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Captura.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Eliminacion.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.FormTienda.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Modificacion.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Productos.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO_Tienda_de_Abarrotes.Properties.Resources.resources
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.GenerateResource.cache
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.csproj.CoreCompileInputs.cache
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.exe
+C:\Users\ALAN PC\Documents\F A C U L T A D\PROYECTO Tienda de Abarrotes\PROYECTO Tienda de Abarrotes\obj\Debug\PROYECTO Tienda de Abarrotes.pdb
